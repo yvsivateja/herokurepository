@@ -1,0 +1,25 @@
+[{
+    "availableActions": [],
+    "errorMessages": [],
+    "flowLabel": "Advisor-to-Client Onboarding Flow",
+    "guid": "869369a2912430802ba61f8e67b015ac9f8c369-69b6",
+    "helpText": null,
+    "interviewStatus": "STARTED",
+    "outputVariables": [],
+    "pausedText": null,
+    "screenFields": [{
+        "choices": null,
+        "dataType": "STRING",
+        "errorMessages": null,
+        "fieldType": "DISPLAY_TEXT",
+        "helpText": null,
+        "isRequired": false,
+        "isValidValue": true,
+        "label": "Details Captured successfully. Please contact Agent for more details",
+        "name": "KYCWizardDesc",
+        "triggersUpdate": false,
+        "value": null
+    }],
+    "screenName": "KYC_Wizard",
+    "state": "rO0ABXNyACRpbnRlcmFjdGlvbi5lbmdpbmUuYXBpLkludGVydmlld0ltcGwAAAAAAAAAAQIADFoACnNob3dFcnJvcnNMAAdhY3Rpb25zdAAQTGphdmEvdXRpbC9MaXN0O0wADWVycm9yTWVzc2FnZXNxAH4AAUwABmVycm9yc3QAD0xqYXZhL3V0aWwvTWFwO0wABmZpZWxkc3EAfgABTAAIaGVscFRleHR0ABJMamF2YS9sYW5nL1N0cmluZztMAAlpbnRlcnZpZXd0AChMaW50ZXJhY3RpbA=="
+}]
