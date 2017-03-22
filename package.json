@@ -4,7 +4,7 @@
   "description": "React Application built with React, Redux and Webpack",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "nodemon server/server.js"
+    "start": "node server/server.js"
   },
   "author": "Siva Teja",
   "dependencies": {
